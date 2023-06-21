@@ -1,8 +1,9 @@
 body {
-    background-color:rgb(206, 201, 193);
-    color:black;
+    background-color: #f0f0f0;
+    color: black;
 }
 h1 {
+   border: 1px solid black;
     font-family: Arial, sans-serif ;
     font-size: 36px;
     text-align: center;
